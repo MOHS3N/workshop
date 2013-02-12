@@ -1,0 +1,72 @@
+*{
+	margin:0;
+	padding: 0;
+	border:0;
+	
+}
+body{
+	background-image: url("backguid.jpg");
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+div.contiuner{
+	width: 970px;
+	outline:3px solid #FCC;
+	margin: 0 auto;
+}
+header{
+	width: auto;
+	outline: 3px solid #CCC;
+	min-height: 145px;
+	}
+header > menu.left{
+	float: left;
+	width: 390px;
+	min-height:145px;
+	outline: 5px solid #CDF;
+	
+}
+header > menu.right{
+	float: right;
+	width: 390px;
+	min-height:145px;
+	outline: 5px solid #CDF;
+}
+div.logo{
+	width: 165px;
+	margin:0 auto;
+	height:145px;
+	outline:3px solid #ECC;
+}
+div.conten{
+	width: auto;
+	outline: 3px solid #000;
+}
+div.main-img{
+	width: 400px;
+	float: right;
+	height:440px;
+	outline: 3px solid #CCC;
+	
+}
+div.page-title{
+	width: 540px;
+	margin-right: auto;
+	height: 515px;
+	outline: 3px solid #000;
+}
+div.badboy{
+	width: 0;
+	height: 0;
+	clear: both;
+}
+div.page-bottom{
+	width: auto;
+	height: 170px;
+	outline: 3px solid #CEE;
+}
+footer{
+	width: auto;
+	height: 30px;
+	outline:2px solid #000;
+}
